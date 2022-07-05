@@ -2,7 +2,7 @@ package eu.javaca.playground.simple.example;
 
 public class Robot extends Worker {
 
-    private String version;
+    public String version;
 
     @Override
     public void doWork() {
