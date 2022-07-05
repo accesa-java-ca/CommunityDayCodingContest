@@ -2,7 +2,7 @@ package eu.javaca.playground.simple.example;
 
 public class Human extends Worker {
 
-    private String name;
+    public String name;
 
     @Override
     public void doWork() {
